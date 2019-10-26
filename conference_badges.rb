@@ -25,5 +25,5 @@ end
 
 
 def printer(attendees)
-  puts 
+  binding.pry 
 end 
