@@ -22,3 +22,7 @@ def assign_rooms(attendees)
   #   binding.pry 
   # end 
 end 
+
+
+def printer(attendees)
+end 
